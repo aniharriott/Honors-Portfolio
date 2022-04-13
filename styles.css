@@ -117,9 +117,13 @@ li a:hover, .link a:hover {
   max-width: 250px;
 }
 
-#headshot img{
+#headshot img {
   height: 250px;
   border-radius: 45px;
   float: right;
   padding: 20px;
+}
+
+#map img {
+  max-width: 700px;
 }
