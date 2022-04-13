@@ -116,3 +116,10 @@ li a:hover, .link a:hover {
 #photos img{
   max-width: 250px;
 }
+
+#headshot img{
+  height: 250px;
+  border-radius: 45px;
+  float: right;
+  padding: 20px;
+}
