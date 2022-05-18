@@ -20,6 +20,11 @@ img {
   margin-bottom: 20px;
 }
 
+#map {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
 .image, .exp_image{
   text-align: center;
 }
